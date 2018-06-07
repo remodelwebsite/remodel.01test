@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-gb"
+languageCode = "ja"
 title = "{TITLE}"
 
 enableRobotsTXT = true
