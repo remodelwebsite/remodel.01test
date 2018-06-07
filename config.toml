@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ja"
-title = "{TITLE}"
+title = "sample site"
 
 enableRobotsTXT = true
 disableAliases = true
